@@ -1,0 +1,5 @@
+For a build to properly run (using run_with_dlls.bat), the correct dlls must be present in the resources/dll/ folder. The dependencies are as follows:
+	glfw.dll
+	lwjgl.dll
+	lwjgl_opengl.dll
+Additionally, the build must be named build.jar and be present in the same directory as run.bat.
